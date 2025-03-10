@@ -6,8 +6,8 @@
   
 
 ### 💡 Sobre mim 💡
-- 🔭 Atualmente, estou trabalhando no desenvolvimento de um projeto no Arduino com painel solar para geração de energia.
-- 🌱 Aprendendo C++ e Arduino.
+- 🔭 Atualmente, estou trabalhando no desenvolvimento de um **projeto no Arduino com painel solar para geração de energia.**
+- 🌱 Aprendendo **C++ e Arduino.**
 ---
 
 ### 🚀 Tecnologias e Ferramentas 🚀
